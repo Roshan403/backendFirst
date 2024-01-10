@@ -1,0 +1,9 @@
+Professional Journey
+
+Setup
+
+Step1: npm init (package.json) 
+Step2:pust in github
+git init 
+git add . // to add all files 
+git commit -message
