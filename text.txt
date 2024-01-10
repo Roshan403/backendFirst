@@ -6,4 +6,9 @@ Step1: npm init (package.json)
 Step2:pust in github
 git init 
 git add . // to add all files 
-git commit -message
+git commit -m (you can add message here inside "") //message
+git branch -m main //(to rename existing current branch , you can see it in the left bottom of your vscode interface screen)
+link where to push your code
+git push -u origin main
+
+git remote remove origin // to remove remote origin if already exist 
