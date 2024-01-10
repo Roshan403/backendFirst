@@ -11,4 +11,21 @@ git branch -m main //(to rename existing current branch , you can see it in the 
 link where to push your code
 git push -u origin main
 
-git remote remove origin // to remove remote origin if already exist 
+git status tracks to files not folders 
+if we create new folder and try to push (On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean)
+git remote remove origin // to remove remote origin if already exist.
+.gitkeep file is made
+
+
+two types of importing is done in js 
+common js 
+module 
+
+nodemon =restart the server everytime you save changes.
+
+two dependencies 
+1 dev dependencies:not included during development ,developlment ko bela naline
+"dev dependencies" typically refer to dependencies that are only needed during the development phase of a project
+2 main dependencies:nine
